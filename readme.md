@@ -1,9 +1,10 @@
-![Repository Banner](headerimage.png)
+![Repository Banner](arton 199857.jpg)
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
 ## Table of Contents
 
 - [UI Graphics](#ui-graphics)
+- [Mandingo](#ui-graphics)
 - [Fonts](#fonts)
 - [Colors](#colors)
 - [Icons](#icons)

@@ -1,4 +1,4 @@
-![Repository Banner](arton 199857.jpg)
+![Repository Banner](momo.png)
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
 ## Table of Contents
